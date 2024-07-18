@@ -1,7 +1,8 @@
 # Vanilla-Plus-FO
 This is a vanilla plus pack built on top of Fabulously Optimised 1.20.1 version. Respective credit goes to the FO team.
 
-# Modlist:
+<details>
+   # Modlist:
 
 1. **EMI Enchants**
    - Version: 1.0.0
@@ -219,3 +220,5 @@ This is a vanilla plus pack built on top of Fabulously Optimised 1.20.1 version.
     - Version: v2.18.0
 108. **Mod Menu Helper**
     - Added via overrides
+</details>
+

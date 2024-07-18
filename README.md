@@ -6,7 +6,7 @@ This is a vanilla plus pack built on top of Fabulously Optimised 1.20.1 version.
 - Kappa Shaders
 
 **Resource Packs:**
-- Coven x64
+- Alacrity x32
 - Pinku's Pink GUI Pack
 - Pinku's Pink GUI Pack Addons
 - Enhanced Boss Bars

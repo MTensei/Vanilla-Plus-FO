@@ -1,6 +1,20 @@
 # Vanilla-Plus-FO
 This is a vanilla plus pack built on top of Fabulously Optimised 1.20.1 version. Respective credit goes to the FO team.
 
+# Recommended
+**Shaders:**
+- Kappa Shaders
+
+**Resource Packs:**
+- Coven x64
+- Pinku's Pink GUI Pack
+- Pinku's Pink GUI Pack Addons
+- Enhanced Boss Bars
+- Even Better Enchants
+- Motschen's Better Leaves
+- Visible Ores
+- Dramatic Skys
+
 # Mods
 <details>
 <summary>Click me!</summary>
